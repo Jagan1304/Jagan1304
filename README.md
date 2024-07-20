@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm JAGANNATHAN A</h1>
 <h3 align="center">A passionate Software Engineer .</h3>
 
-- 🔭 I'm currently working on [Drive-Academy](https://github.com/Jagan1304/Drive-Academy.git)
+- 🔭 I'm currently working on Turf Booking System
 
 - 🌱 I’m currently learning **Django , DSA**
 
