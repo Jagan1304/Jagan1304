@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently working on Turf Booking System
 
-- 🌱 I’m currently learning **Django , DSA**
+- 🌱 I’m currently learning **React , DSA**
 
 - 💬 Ask me about **Java**
   
